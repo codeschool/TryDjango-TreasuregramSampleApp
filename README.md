@@ -1,4 +1,4 @@
-# TryDjango-TreasuregramSampleApp
+# Try Django - Treasuregram Sample App
 ### The Treasuregram App featured in the Try Django course:
 https://www.codeschool.com/courses/try-django
 
